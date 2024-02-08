@@ -1,0 +1,120 @@
+  body {
+    background-color: #262621;
+  }
+  a:hover {
+    background-color: #A3A658;
+  }
+  .main {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .about{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  .img{
+    border: 5px solid #3D402C;
+  }
+  #title{
+    font-size: 500%;
+    background-color: #A3A658;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin: 0;
+    font-family: Palatino;
+    color: white;
+  }
+  .abouttext{
+    color: white;
+    font-family: Arial;
+  }
+  .tabletitle{
+    font-size: 150%;
+    font-weight: bold;
+    background-color: #73573F;
+    padding: 10px;
+  }
+  .bodytext{
+    font-size: 100%;
+    white-space: normal;
+    color: white;
+    font-family: Arial;
+  }
+  .subtitle{
+    font-size: 200%;
+    padding-bottom: 30px;
+    background-color: #A3A658;
+    font-weight: 500;
+    margin: 0;
+  }
+  .maintitle{
+    font-size: 300%;
+    padding: 30px;
+    background-color: #A3A658;
+    font-weight: 700;
+  }
+  .center {
+    text-align: center;
+  }
+  .text {
+    color: white;
+    font-family: Arial;
+  }
+  .link {
+    color: white;
+    font-family: Arial;
+    font-size: 100%;
+  }
+  
+  table, td{
+    text-align: center;
+    border: 1px solid;
+    color: white;
+    border-collapse: collapse;
+    table-layout: auto;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .leftside{
+    font-weight: bold;
+    background-color: #73573F;
+  }
+
+ 
+
+  
+
+  /* Styling the navigation bar */
+  nav {
+      background-color: #3D402C;
+    }
+  nav ul li {
+    display: inline;
+  }
+  nav ul li a {
+    display: inline-block;
+    padding: 50px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  
+
+/*
+- have at least 10 selectors
+- use 2+ fonts for different kinds of contexts
+- set background color of some elements (specify color by hex)
+- set border of some elements
+- use the :hover pseudo-class for 1+ elements
+- use at least one class-based selector
+- use at least one id-based selector
+- have at least one selector rely on the hierarchical relationship between two elements
+- use width and/or height to control the geometry of an element
+- validate as CSS3 using the validator
+*/
